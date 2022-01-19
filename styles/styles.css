@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+}
+
+
+.row {
+    flex-direction: row;
+}
+
+.left-container {
+    padding-right: 50px;
+}
+
+.right-container {
+    padding: 100px 40px 0 50px;
+    text-align: center;
+
+}
+
+.left-container a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #0645ad;
+}
+
+.left-container a:hover {
+    text-decoration: underline;
+}
+
